@@ -3,7 +3,9 @@ Welcome to the Tic-Tac-Toe project! This classic game implementation will provid
 
 ## Preview
 ![giphy](https://github.com/NicholasTerek/Tic-Tac-Toe/assets/139080309/4f0ecbbf-0828-40a5-bc5b-8a429512c518)
-
+<div style="text-align:center">
+  <img src="https://github.com/NicholasTerek/Tic-Tac-Toe/assets/139080309/4f0ecbbf-0828-40a5-bc5b-8a429512c518" width="100%" alt="Your GIF">
+</div>
 ## Things I Learned
 - JavaScript Game Logic 
 - The CSS hover tool 
